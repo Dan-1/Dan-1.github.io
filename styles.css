@@ -18,12 +18,23 @@
 }
 
 #backdrop{
-	background:#C09f80;
+	background:#99A1A6;
 }
 .container-fluid{
-	background:#D7CEC7;
+	background:#D0CFCF;
+	border-bottom:0px;
 	
 }
-.btn{
-	background:76323F;
+.btn, .btn-custom, .navbar-btn{
+	background:#B2B9C1;
+}
+
+#home{
+	color:#000000;
+}
+#port{
+	color:#000000;
+}
+#expe{
+	color:#000000;
 }
