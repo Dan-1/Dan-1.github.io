@@ -1,6 +1,7 @@
 #about{
   margin-top:10px;
   height: 550px;
+  border:transparent;
 }
 
 #image{
@@ -23,7 +24,9 @@
 .container-fluid{
 	background:#D0CFCF;
 	border-bottom:0px;
-	
+}
+.navbar-default{
+	border:transparent;
 }
 .btn, .btn-custom, .navbar-btn{
 	background:#ffffff;
