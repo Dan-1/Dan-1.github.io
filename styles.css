@@ -2,13 +2,14 @@
   margin-top:10px;
   height: 550px;
   border:transparent;
+  text-align: center;
 }
 
 #image{
   margin-top:60px;
   height:200px;
 }
-#line{
+hr{
   height: 2px;
   width: 30%;
   background-color:#000000;
@@ -20,7 +21,7 @@
 }
 
 #backdrop{
-	background:#99A1A6;
+	background: #fcfcfc;
 }
 .container-fluid{
 	background:#D0CFCF;
@@ -47,4 +48,12 @@
 }
 #expe{
 	color:#000000;
+}
+
+#title_port{
+	text-align: center;
+}
+
+#title_exp{
+	text-align: center;
 }
